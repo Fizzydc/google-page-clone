@@ -22,11 +22,13 @@
     width: 20%;
     display: flex;
     justify-content: space-between;
-    border: 1px solid red;
+    align-items: center;
+    /*border: 1px solid red;**/
  }
 
  .nav-right {
     width: 40%
     display: flex;
     justify-content: space-between;
+    align-items: center;
  }
